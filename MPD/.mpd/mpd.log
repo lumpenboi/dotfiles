@@ -1,0 +1,23 @@
+May 30 10:50 : config: option 'device' on line 13 was not recognized
+May 30 10:50 : avahi: Service 'Music Player @ ubuntubox' successfully established.
+May 30 10:52 : config: option 'device' on line 13 was not recognized
+May 30 10:52 : avahi: Service 'Music Player @ ubuntubox' successfully established.
+May 30 10:54 : player: played "drumsolomono.mp3"
+May 30 10:55 : avahi: Client Disconnected, will reconnect shortly
+May 30 11:03 : config: option 'device' on line 13 was not recognized
+May 30 11:03 : avahi: Service 'Music Player @ ubuntubox' successfully established.
+May 30 11:03 : player: played "myMusic/drumsolomono.mp3"
+May 30 11:04 : config: option 'device' on line 13 was not recognized
+May 30 11:04 : avahi: Service 'Music Player @ ubuntubox' successfully established.
+May 30 11:04 : player: played "myMusic/drumsolomono.mp3"
+May 30 11:05 : config: option 'device' on line 13 was not recognized
+May 30 11:05 : avahi: Service 'Music Player @ ubuntubox' successfully established.
+May 30 11:05 : player: played "myMusic/drumsolomono.mp3"
+May 30 11:07 : player: played "myMusic/drumsolomono.mp3"
+May 30 11:07 : config: option 'device' on line 13 was not recognized
+May 30 11:07 : avahi: Service 'Music Player @ ubuntubox' successfully established.
+May 30 11:08 : avahi: Client Disconnected, will reconnect shortly
+May 30 12:22 : config: option 'device' on line 13 was not recognized
+May 30 12:22 : avahi: Service 'Music Player @ ubuntubox' successfully established.
+May 30 12:24 : player: played "myMusic/drumsolomono.mp3"
+May 30 12:32 : avahi: Client Disconnected, will reconnect shortly
